@@ -201,3 +201,7 @@ ul.sub-list .item-sub{
     color:#6c757d;
     line-height: 50px;
 }
+.sem-certificado{
+    font-weight: normal;
+    color: red;
+}
