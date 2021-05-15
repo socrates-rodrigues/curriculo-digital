@@ -191,7 +191,6 @@ ul.sub-list .item-sub{
 .part1{
     width: 50%;
     height: 400px;
-    background-image: url('roda.png');
     background-size: contain;
     background-repeat: no-repeat;
     justify-content: center;
