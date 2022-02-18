@@ -160,6 +160,13 @@ ul.sub-list .item-sub{
     background-repeat: no-repeat;
     margin-top: 20px;
 }
+.item3{
+    width: 50%;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
 
 /*PROJETOS*/
 .proj1{
