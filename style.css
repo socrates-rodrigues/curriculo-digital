@@ -172,6 +172,10 @@ ul.sub-list .item-sub{
 }
 
 /*PROJETOS*/
+
+h1{
+padding: 20px 0;
+}
 .proj1{
     width: 100%;
     height: 400px;
