@@ -151,11 +151,11 @@ ul.sub-list .item-sub{
     width: 60%;
     margin-top: 10px;
     font-size: 25px;
-    padding: 5px 0;
+    padding: 5px 5px;
     color:#1751a3;
 }
 .item2{
-    width: 40%;
+    width: 39%;
     height: 400px;
     background-size: contain;
     background-repeat: no-repeat;
