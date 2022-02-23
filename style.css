@@ -151,7 +151,7 @@ ul.sub-list .item-sub{
     width: 60%;
     margin-top: 10px;
     font-size: 25px;
-    padding: 5px 5px;
+    padding: 5px 0;
     color:#1751a3;
     display: inline-block;
 }
