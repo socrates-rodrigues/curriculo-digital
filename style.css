@@ -153,6 +153,7 @@ ul.sub-list .item-sub{
     font-size: 25px;
     padding: 5px 5px;
     color:#1751a3;
+    display: inline-block;
 }
 .item2{
     width: 39%;
@@ -160,6 +161,7 @@ ul.sub-list .item-sub{
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 20px;
+    display: inline-block;
 }
 .item3{
     width: 50%;
